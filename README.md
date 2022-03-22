@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Journey of a Data Scientist
 
 You can use the [editor on GitHub](https://github.com/CarmelLaetitiaMobio/CarmelLaetitiaMobio.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<h1>I am Carmel Laetitia Mobio.</1>
+<p>Hello! This website is to document my journey as a Data Scientist.</p>
+<p>I received my Master Degree  in Mathematics/Statistics with research in Machine Learning from the University of Minnesota Duluth.</p>
 
 ### Markdown
 
